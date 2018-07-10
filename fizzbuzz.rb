@@ -10,6 +10,5 @@ def fizzbuzz(int)
 end
 end
 
-puts fizzbuzz (3)
-puts fizzbuzz (9)
-puts fizzbuzz (11)
+puts fizzbuzz (5)
+
